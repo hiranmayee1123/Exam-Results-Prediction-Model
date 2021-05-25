@@ -11,6 +11,6 @@ This is a short project in Machine Learning where a model is trained in such a w
 ### Platform used :
 - Jupyter Notebook
 
-### Team Member:
+### Team Member :
 - [Ksheeraj Kandra](https://github.com/ksheeraj1161)
 

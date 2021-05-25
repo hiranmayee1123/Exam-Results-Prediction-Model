@@ -6,7 +6,7 @@ This is a short project in Machine Learning where a model is trained in such a w
 - Python 3.7 version
 
 ### Imported data :
-- data.csv
+- [data.csv](https://github.com/hiranmayee1123/Students-Result-Prediction-Model/blob/main/data.csv)
 
 ### Platform used :
 - Jupyter Notebook
